@@ -1,0 +1,1 @@
+export { useGetSwitchPrice } from "./useGetSwitchPrice";
